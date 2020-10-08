@@ -1,4 +1,8 @@
-### Hi there 👋
+### Kofteistkofte
+
+This is my side account for Github projects. I mainly use my Gitlab account.
+
+[https://gitlab.com/kofteistkofte](https://gitlab.com/kofteistkofte)
 
 <!--
 **kofteistkofte/kofteistkofte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
